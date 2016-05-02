@@ -108,7 +108,7 @@ body {
 }
 
 #site-header h1 a {
-	color: #fff; font-family:"\5FAE\8F6F\96C5\9ED1";
+	color: #fff; font-family:"microsoft yahei";
 }
 
 #site-header h1 a:hover {
@@ -212,7 +212,7 @@ body {
 	font-size: 22px;
 	margin-bottom: 60px;
 	color: #fff !important;
-	font-family: '\5FAE\8F6F\96C5\9ED1', sans-serif;
+	font-family: "microsoft yahei", sans-serif;
 	font-weight: 300;
 	line-height: 56px;
 	word-spacing: 2px;
@@ -269,7 +269,7 @@ body {
 	font-weight: 400;
 	
     font-size: 55px;
-    font-family:'\5FAE\8F6F\96C5\9ED1', 'Milonga', cursive;
+    font-family:'microsoft yahei', 'Milonga', cursive;
 }
 
 .portfolio-item img {
@@ -528,7 +528,7 @@ ul.numbersList span{
 #contact .block-heading h1
 {
 	color: #fff;
-	font-family:'\5FAE\8F6F\96C5\9ED1', 'Milonga', cursive;
+	font-family:'microsoft yahei', 'Milonga', cursive;
 	font-weight: 400;
 	font-size: 55px;
 }
@@ -781,4 +781,4 @@ i.fa.fa-envelope-o {
 
 /*项目列表*/
 .obj_item{width:100%;}
-.obj_item li{width:100%; margin-bottom:3px; font:normal 12px/22px "\5FAE\8F6F\96C5\9ED1"; text-align:left;}
+.obj_item li{width:100%; margin-bottom:3px; font:normal 12px/22px "microsoft yahei"; text-align:left;}
